@@ -1,0 +1,1 @@
+StringInputConsoleApplication.o: ../StringInputConsoleApplication.cpp
